@@ -64,6 +64,7 @@ Distributed SQL Database | [CockroachDB](https://www.cockroachlabs.com) | Cockro
 Platform as a Service | [Dokku](https://dokku.com) | A docker-powered PaaS that helps you build and manage the lifecycle of applications | <a href=https://github.com/dokku/dokku><img src="https://img.shields.io/github/stars/dokku/dokku" width=150/></a> | [Heroku](https://www.heroku.com/), [Render](https://render.com/)
 Distributed Event Streaming Platform | [Apache Kafka](https://kafka.apache.org/) | Mirror of Apache Kafka | <a href=https://github.com/apache/kafka><img src="https://img.shields.io/github/stars/apache/kafka" width=150/></a> | [Amazon Kinesis Data Analytics](https://aws.amazon.com/kinesis/data-analytics/)
 Analytical Database | [DuckDB](https://www.duckdb.org) | DuckDB is an analytical in-process SQL database management system | <a href=https://github.com/duckdb/duckdb><img src="https://img.shields.io/github/stars/duckdb/duckdb" width=150/></a> | -
+Autonomous AI Agents | [OpenHands](https://all-hands.dev) | 🙌 OpenHands: Code Less, Make More | <a href=https://github.com/All-Hands-AI/OpenHands><img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands" width=150/></a> | [Devin](https://devin.ai/)
 
 ## Commercial list
 
@@ -78,6 +79,6 @@ Deep Research | [Gemini Deep Research](https://blog.google/products/gemini/googl
 Deep Research | [Perplexity Deep Research](https://www.perplexity.ai/ja/hub/blog/introducing-perplexity-deep-research) |-
 Deep Research | [Grok Deep Research](https://x.ai/grok) |-
 IDE | [Cursor](https://www.cursor.com/) |-
-AI Coding Agent | [Devin](https://www.devin.ai/) | -
+Autonomous AI Agents | [Devin](https://devin.ai/) | -
 Web Crowler | [Tavily](https://tavily.com/) | -
 Creative Suite | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) | -
