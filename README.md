@@ -82,3 +82,4 @@ IDE | [Cursor](https://www.cursor.com/) |-
 Autonomous AI Agents | [Devin](https://devin.ai/) | -
 Web Crowler | [Tavily](https://tavily.com/) | -
 Creative Suite | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) | -
+Private Notetaking | [Obsidian](https://obsidian.md/) | -
