@@ -78,6 +78,7 @@ Deep Research | [ChatGPT deep research](https://chatgpt.com/g/deep-research) | -
 Deep Research | [Gemini Deep Research](https://blog.google/products/gemini/google-gemini-deep-research/) |-
 Deep Research | [Perplexity Deep Research](https://www.perplexity.ai/ja/hub/blog/introducing-perplexity-deep-research) |-
 Deep Research | [Grok Deep Research](https://x.ai/grok) |-
+OS Operation Agent | [OpenAI Computer-Using Agent](https://openai.com/index/computer-using-agent/) | 有償限定機能
 IDE | [Cursor](https://www.cursor.com/) |-
 Autonomous AI Agents | [Devin](https://devin.ai/) | -
 Web Crowler | [Tavily](https://tavily.com/) | -
