@@ -66,6 +66,12 @@ Distributed Event Streaming Platform | [Apache Kafka](https://kafka.apache.org/)
 Analytical Database | [DuckDB](https://www.duckdb.org) | DuckDB is an analytical in-process SQL database management system | <a href=https://github.com/duckdb/duckdb><img src="https://img.shields.io/github/stars/duckdb/duckdb" width=150/></a> | -
 Autonomous AI Agents | [OpenHands](https://all-hands.dev) | 🙌 OpenHands: Code Less, Make More | <a href=https://github.com/All-Hands-AI/OpenHands><img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands" width=150/></a> | [Devin](https://devin.ai/)
 
+## vscode extentions (Source code openly available)
+
+| Category | Name | Description | GitHub Stars | Alternative to |
+| :--- | :--- | :--- | :---: | :---: |
+Vscode AI Assistant | [Roo Code](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) | Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor. | <a href=https://github.com/RooVetGit/Roo-Code><img src="https://img.shields.io/github/stars/RooVetGit/Roo-Code" width=150/></a> | [GitHub Copilot](https://github.com/features/copilot/whats-new)
+
 ## Commercial list
 
 | Category | Name | Description |
