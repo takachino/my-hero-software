@@ -65,6 +65,7 @@ Platform as a Service | [Dokku](https://dokku.com) | A docker-powered PaaS that 
 Distributed Event Streaming Platform | [Apache Kafka](https://kafka.apache.org/) | Mirror of Apache Kafka | <a href=https://github.com/apache/kafka><img src="https://img.shields.io/github/stars/apache/kafka" width=150/></a> | [Amazon Kinesis Data Analytics](https://aws.amazon.com/kinesis/data-analytics/)
 Analytical Database | [DuckDB](https://www.duckdb.org) | DuckDB is an analytical in-process SQL database management system | <a href=https://github.com/duckdb/duckdb><img src="https://img.shields.io/github/stars/duckdb/duckdb" width=150/></a> | -
 Autonomous AI Agents | [OpenHands](https://all-hands.dev) | 🙌 OpenHands: Code Less, Make More | <a href=https://github.com/All-Hands-AI/OpenHands><img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands" width=150/></a> | [Devin](https://devin.ai/)
+Relational Database | [PostgreSQL](https://www.postgresql.org/) | Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch | <a href=https://github.com/postgres/postgres><img src="https://img.shields.io/github/stars/postgres/postgres" width=150/></a> | [Oracle](https://www.oracle.com/database/)
 
 ## vscode extentions (Source code openly available)
 
@@ -90,3 +91,4 @@ Autonomous AI Agents | [Devin](https://devin.ai/) | -
 Web Crowler | [Tavily](https://tavily.com/) | -
 Creative Suite | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) | -
 Private Notetaking | [Obsidian](https://obsidian.md/) | -
+Platform as a Service | [Vercel](https://vercel.com/) | -
